@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="40" viewBox="0 0 640 40">
+  <rect width="640" height="40" rx="6" fill="#2B2D30"/>
+  <rect x="10" y="12" width="14" height="14" rx="2" fill="#548AF7"/>
+  <path d="M13 19 l3 3 l6 -7" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="30" y="24" font-family="sans-serif" font-size="12" fill="#E8EAED">Create git branch</text>
+  <rect x="168" y="12" width="14" height="14" rx="2" fill="#548AF7"/>
+  <path d="M171 19 l3 3 l6 -7" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="188" y="24" font-family="sans-serif" font-size="12" fill="#E8EAED">Auto copy skill</text>
+  <rect x="318" y="8" width="56" height="24" rx="3" fill="#3C3F41" stroke="#6F737A"/>
+  <text x="346" y="24" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#C0C4CC">Clear</text>
+  <rect x="380" y="8" width="48" height="24" rx="3" fill="#3C3F41" stroke="#6F737A"/>
+  <text x="404" y="24" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#C0C4CC">Kill</text>
+  <rect x="434" y="8" width="72" height="24" rx="3" fill="#3C3F41" stroke="#6F737A"/>
+  <text x="470" y="24" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#C0C4CC">Add skill</text>
+  <rect x="512" y="6" width="118" height="28" rx="4" fill="#2B3D5C" stroke="#548AF7" stroke-width="2"/>
+  <text x="571" y="24" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#E8EAED">Execute</text>
+</svg>
